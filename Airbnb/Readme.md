@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** that compares Airbnb listings between **Chicago** and **New Orleans**, focusing on room distribution, pricing, host performance, and neighborhood trends.
 
-![Airbnb Dashboard Preview](Preview.png)
+![Airbnb Dashboard Preview](Preview1.png)
 
 ---
 
