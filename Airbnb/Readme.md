@@ -1,36 +1,32 @@
-# 🏘️ Airbnb Room Analysis Dashboard
+# Airbnb Room Analysis Dashboard 🏘️
 
-This interactive dashboard provides a comparative analysis between Airbnb listings in **Chicago** and **New Orleans**. The goal is to uncover insights around room types, pricing trends, host activity, and neighborhood preferences.
+An interactive **Power BI dashboard** that compares Airbnb listings between **Chicago** and **New Orleans**, focusing on room distribution, pricing, host performance, and neighborhood trends.
 
-![Airbnb Dashboard Preview](Preview1.png) <!-- Rename your screenshot file accordingly -->
+![Airbnb Dashboard Preview](Preview.png)
+
+---
+
+## 🔗 Live Dashboard
+
+> 📈 **View it Live on Power BI Service**  
+[🔗 Click here to open the dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc1ZDY4YWEtNjc1OS00NmQzLTkyMWMtNmRmY2E4MTc2Yzc1IiwidCI6IjI0MGMyNTRiLTgzOTItNDI1MC05ODM0LWQxZTc3ZGNjMWI4OSJ9)
 
 ---
 
 ## 📊 Key Insights
 
-- 📍 **Neighborhood-wise Room Distribution**
-- 💰 **Average Price by Property Type & City**
-- 📈 **Do Experienced Hosts Receive More Reviews?**
-- 🏘️ **Property Type Share in Total Listings**
-- 🗣️ **Top Hosts by Number of Reviews**
+- 📍 **Room Distribution** by Neighborhood & Room Type
+- 🧑‍💼 **Top Hosts** ranked by Number of Reviews
+- 🏘️ **Property Type** share in total listings
+- 💰 **Average Price** comparison across cities and room types
+- 👥 Do **Experienced Hosts** receive more reviews?
 
 ---
 
 ## ⚙️ Tools & Technologies
 
-- **Power BI** – for interactive visualization
-- **Excel / CSV** – data preprocessing
-- **DAX & Data Modeling** – filters, relationships, slicers
+- Power BI (for data visualization)
+- Excel / CSV (data cleaning)
+- DAX (for calculated fields and interactivity)
 
 ---
-
-## 📂 Folder Structure
-
-```plaintext
-Airbnb/
-│
-├── Preview1.png         # Dashboard screenshot (used in README)
-├── Preview2.png
-├── Airbnb_dashboard.pbix        # Power BI dashboard file
-├── airbnb_data.xlsx             # Raw/cleaned data file
-└── README.md                    # Project overview
