@@ -10,7 +10,7 @@ This Power BI Dashboard provides an in-depth analysis of space missions, launch 
 [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDRhNmI2MWMtZmE2MS00ZGQ4LWEwMzUtYTNjZTJiNThkODIxIiwidCI6IjI0MGMyNTRiLTgzOTItNDI1MC05ODM0LWQxZTc3ZGNjMWI4OSJ9)
 
 ## 📁 Files Included
-- `Space-Mission-Analysis.pbix` → Power BI file containing all reports and visualizations.
+- `Space_Mission.pbix` → Power BI file containing all reports and visualizations.
 
 ## 📸 Screenshots
 [Dashboard Preview]
