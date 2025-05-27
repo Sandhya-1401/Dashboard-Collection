@@ -1,5 +1,7 @@
-# 🚀 Space Mission Analysis Dashboard
+# Space Mission Analysis Dashboard 🚀
 This Power BI Dashboard provides an in-depth analysis of space missions, launch success rates, agencies involved, and trends over the years.
+
+---
 
 ## 📊 Dashboard Overview
 - Analyzes space mission data from various space agencies.
